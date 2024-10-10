@@ -1,0 +1,11 @@
+export const SET_MEMO = 'SET_MEMO';
+export const SET_LOADING = 'SET_Loading';
+export const SET_USER_DETAILS = 'SET_USER_DETAILS';
+export const SET_SUCCESS = 'SET_SUCCESS';
+export const SET_ERROR = 'SET_ERROR';
+export const RESET_STATE = 'RESET_STATE';
+export const SET_LOGIN = 'SET_LOGIN';
+export const SET_NUMBER = 'SET_NUMBER';
+export const SET_IMGDATA ='SET_IMGDATA';
+export const INC_PLAYERS = 'INC_PLAYERS';
+export const DEC_PLAYERS = 'DEC_PLAYERS';
